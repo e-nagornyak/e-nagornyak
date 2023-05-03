@@ -35,12 +35,14 @@ There are no impossible tasks - there is a lack of time to solve them. 🐱‍�
  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="reactjs" alt="reactjs" width="40" height="40"/>&nbsp
  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp
  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="reactjs" alt="reactjs" width="40" height="40"/>&nbsp
-<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg" title="next.js" alt="next.js" width="40" height="40"/>&nbsp
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="nodejs" alt="nodejs" width="40" height="40"/>&nbsp
-<img src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg " title="nodejs" alt="nodejs" width="40" height="40"/>&nbsp
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
+ <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg" title="next.js" alt="next.js" width="40" height="40"/>&nbsp
+ <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="nodejs" alt="nodejs" width="40" height="40"/>&nbsp
+ <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="nodejs" alt="nodejs" width="40" height="40"/>&nbsp
+ <img src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg " title="nodejs" alt="nodejs" width="40" height="40"/>&nbsp
+ <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp
+ <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp
+ <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp
+ <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
 
 </div>
 
@@ -49,11 +51,12 @@ There are no impossible tasks - there is a lack of time to solve them. 🐱‍�
 ### 🛠 Tools:
 
 <div>
-   <img src="https://cdn-icons-png.flaticon.com/512/5969/5969059.png" title="C" alt="C" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/410px-Vitejs-logo.svg.png?20220412224743" title="C" alt="C" width="40" height="40"/>&nbsp;
+  <img src="https://cdn-icons-png.flaticon.com/512/5969/5969059.png" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
-
+  <img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-plain.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp; 
 </div>
 
 ---
