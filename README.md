@@ -2,12 +2,6 @@
 
 ---
 
-### :man_technologist: About me:
-
-Hi, I'm a front-end developer with 1.5 years of experience building SPA using
-React-Redux/RTK and TypeScript.
-There are no impossible tasks - there is a lack of time to solve them. 🐱‍👤
-
 ### 🤝 Social networks:
 
   <div id="badges">
