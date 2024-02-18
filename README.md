@@ -23,6 +23,15 @@
 
 ---
 
+### 💻 Codewars:
+
+![codewars](https://www.codewars.com/users/e_nagornyak/badges/large)
+
+
+### 🔑 Letcode:
+[![LeetCode user e-nagornyak](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Fe-nagornyak&logo=leetcode&logoColor=yellow)](https://leetcode.com/e-nagornyak/) 
+---
+
 ### 💻 Technologies:
 
 <div>
@@ -52,13 +61,3 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-plain.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp; 
 </div>
-
----
-
-### 💻 Codewars:
-
-![codewars](https://www.codewars.com/users/e_nagornyak/badges/large)
-
-
-### 🔑 Letcode:
-[![LeetCode user e-nagornyak](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Fe-nagornyak&logo=leetcode&logoColor=yellow)](https://leetcode.com/e-nagornyak/) 
