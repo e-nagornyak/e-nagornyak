@@ -14,9 +14,9 @@
    <a href="https://instagram.com/e.nagorniak?igshid=YmMyMTA2M2Y=" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/128/2111/2111463.png" width="40" height="40" alt="linkedin" />
     </a>
-   <a href="https://e-nagornyak.github.io/my-portfolio/" target="_blank">
+<!--    <a href="https://e-nagornyak.github.io/my-portfolio/" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/351/351456.png" width="40" height="40" alt="linkedin" />
-    </a>
+    </a> -->
 
 
   </div>
