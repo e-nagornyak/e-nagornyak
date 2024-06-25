@@ -29,7 +29,8 @@
 
 
 ### 🔑 Letcode:
-[![LeetCode user e-nagornyak](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Fe-nagornyak&logo=leetcode&logoColor=yellow)](https://leetcode.com/e-nagornyak/) 
+### [![LeetCode user e-nagornyak](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Fe-nagornyak&logo=leetcode&logoColor=yellow)](https://leetcode.com/e-nagornyak/) 
+![LeetCode Stats](https://leetcode.card.workers.dev/e-nagornyak?theme=dark&font=patrick_hand&extension=null)
 ---
 
 ### 💻 Technologies:
