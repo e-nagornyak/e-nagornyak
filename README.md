@@ -30,7 +30,7 @@
 
 ### 🔑 Letcode:
 
-![LeetCode Stats](https://leetcode.card.workers.dev/e-nagornyak?theme=dark&font=patrick_hand&extension=null)
+![LeetCode Stats](https://leetcard.jacoblin.cool/e-nagornyak?theme=nord&font=Bentham)
 ---
 
 ### 💻 Technologies:
