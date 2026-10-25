@@ -1,169 +1,108 @@
 <div align="center">
 
-# 👋 Hey, I'm Evhen!
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner.svg" />
+  <img src="assets/banner-light.svg" alt="Evhen Nagornyak — Full-Stack & Mobile Developer" width="100%" />
+</picture>
 
-### Full-Stack & Mobile Developer · UI/UX Enthusiast · Open Source Contributor
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Building+modern+web+%26+mobile+apps;React+%7C+Next.js+%7C+React+Native+%7C+Expo;Node.js+%7C+NestJS+%7C+TypeScript;Always+learning+new+things+🚀)](https://git.io/typing-svg)
+<p>
+  <a href="https://t.me/e_nagorniak"><img src="https://img.shields.io/badge/Telegram-242938?style=for-the-badge&logo=telegram&logoColor=2CA5E0" alt="Telegram" /></a>
+  <a href="https://www.linkedin.com/in/e-nagornyak"><img src="https://img.shields.io/badge/LinkedIn-242938?style=for-the-badge&logo=linkedin&logoColor=3B9AE1" alt="LinkedIn" /></a>
+  <a href="https://www.codewars.com/users/e_nagornyak"><img src="https://img.shields.io/badge/Codewars-242938?style=for-the-badge&logo=codewars&logoColor=EF4444" alt="Codewars" /></a>
+  <a href="https://instagram.com/e.nagorniak"><img src="https://img.shields.io/badge/Instagram-242938?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" /></a>
+</p>
 
 </div>
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-  <a href="https://t.me/e_nagorniak" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" />
-  </a>
-  <a href="https://www.linkedin.com/in/e-nagornyak" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
-  </a>
-  <a href="https://instagram.com/e.nagorniak" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
-  </a>
-  <a href="https://github.com/e-nagornyak" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" />
-  </a>
-  <a href="https://www.codewars.com/users/e_nagornyak" target="_blank">
-    <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white" alt="codewars" />
-  </a>
-</div>
-
----
 
 ## 🧑‍💻 About Me
 
 ```ts
 const evhen = {
-  role:       "Full-Stack Developer",
-  location:   "Ukraine 🇺🇦",
-  focus:      ["Web", "Mobile", "Scalable Architectures"],
-  stack:      ["React", "Next.js", "React Native", "Node.js", "NestJS"],
+  role: "Full-Stack & Mobile Developer",
+  location: "Ukraine 🇺🇦",
+  focus: ["Web", "Mobile", "Scalable Architectures"],
+  frontend: ["React", "Next.js", "Vue", "Nuxt", "React Native"],
+  backend: ["Node.js", "NestJS", "PostgreSQL", "Prisma"],
   currentlyLearning: ["Micro-frontends", "Cloud & DevOps", "Web Performance"],
-  funFact:    "I debug with console.log and I'm proud of it 🙃",
+  funFact: "I debug with console.log and I'm proud of it 🙃",
 };
 ```
 
----
-
 ## 💻 Tech Stack
 
-### 🖥️ Frontend
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="react" width="50" height="50"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg" title="Next.js" alt="next.js" width="50" height="50"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="javascript" width="50" height="50"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="typescript" width="50" height="50"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="redux" width="50" height="50"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="html5" width="50" height="50"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="css3" width="50" height="50"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg" title="Storybook" alt="storybook" width="50" height="50"/>&nbsp
+<div align="center">
+
+<p>
+  <img src="assets/icons/ts.svg" width="52" title="TypeScript" alt="TypeScript" />&nbsp;
+  <img src="assets/icons/js.svg" width="52" title="JavaScript" alt="JavaScript" />&nbsp;
+  <img src="assets/icons/html.svg" width="52" title="HTML5" alt="HTML5" />&nbsp;
+  <img src="assets/icons/css.svg" width="52" title="CSS3" alt="CSS3" />&nbsp;
+  <img src="assets/icons/react.svg" width="52" title="React" alt="React" />&nbsp;
+  <img src="assets/icons/nextjs.svg" width="52" title="Next.js" alt="Next.js" />&nbsp;
+  <img src="assets/icons/vue.svg" width="52" title="Vue" alt="Vue" />&nbsp;
+  <img src="assets/icons/nuxt.svg" width="52" title="Nuxt" alt="Nuxt" />&nbsp;
+  <img src="assets/icons/vite.svg" width="52" title="Vite" alt="Vite" />
+</p>
+
+<p>
+  <img src="assets/icons/rtk.svg" width="52" title="Redux Toolkit" alt="Redux Toolkit" />&nbsp;
+  <img src="assets/icons/zustand.svg" width="52" title="Zustand" alt="Zustand" />&nbsp;
+  <img src="assets/icons/pinia.svg" width="52" title="Pinia" alt="Pinia" />&nbsp;
+  <img src="assets/icons/tanstack-query.svg" width="52" title="TanStack Query" alt="TanStack Query" />&nbsp;
+  <img src="assets/icons/tanstack-router.svg" width="52" title="TanStack Router" alt="TanStack Router" />&nbsp;
+  <img src="assets/icons/tanstack-table.svg" width="52" title="TanStack Table" alt="TanStack Table" />&nbsp;
+  <img src="assets/icons/react-hook-form.svg" width="52" title="React Hook Form" alt="React Hook Form" />&nbsp;
+  <img src="assets/icons/zod.svg" width="52" title="Zod" alt="Zod" />
+</p>
+
+<p>
+  <img src="assets/icons/tailwind.svg" width="52" title="Tailwind CSS" alt="Tailwind CSS" />&nbsp;
+  <img src="assets/icons/shadcn.svg" width="52" title="shadcn/ui" alt="shadcn/ui" />&nbsp;
+  <img src="assets/icons/radix.svg" width="52" title="Radix UI" alt="Radix UI" />&nbsp;
+  <img src="assets/icons/antd.svg" width="52" title="Ant Design" alt="Ant Design" />&nbsp;
+  <img src="assets/icons/materialui.svg" width="52" title="Material UI" alt="Material UI" />&nbsp;
+  <img src="assets/icons/storybook.svg" width="52" title="Storybook" alt="Storybook" />&nbsp;
+  <img src="assets/icons/react-native.svg" width="52" title="React Native" alt="React Native" />&nbsp;
+  <img src="assets/icons/expo.svg" width="52" title="Expo" alt="Expo" />&nbsp;
+  <img src="assets/icons/electron.svg" width="52" title="Electron" alt="Electron" />
+</p>
+
+<p>
+  <img src="assets/icons/nodejs.svg" width="52" title="Node.js" alt="Node.js" />&nbsp;
+  <img src="assets/icons/nestjs.svg" width="52" title="NestJS" alt="NestJS" />&nbsp;
+  <img src="assets/icons/postgres.svg" width="52" title="PostgreSQL" alt="PostgreSQL" />&nbsp;
+  <img src="assets/icons/mongodb.svg" width="52" title="MongoDB" alt="MongoDB" />&nbsp;
+  <img src="assets/icons/prisma.svg" width="52" title="Prisma" alt="Prisma" />&nbsp;
+  <img src="assets/icons/vitest.svg" width="52" title="Vitest" alt="Vitest" />&nbsp;
+  <img src="assets/icons/playwright.svg" width="52" title="Playwright" alt="Playwright" />
+</p>
+
+<p>
+  <img src="assets/icons/git.svg" width="52" title="Git" alt="Git" />&nbsp;
+  <img src="assets/icons/githubactions.svg" width="52" title="GitHub Actions" alt="GitHub Actions" />&nbsp;
+  <img src="assets/icons/docker.svg" width="52" title="Docker" alt="Docker" />&nbsp;
+  <img src="assets/icons/nginx.svg" width="52" title="Nginx" alt="Nginx" />&nbsp;
+  <img src="assets/icons/nx.svg" width="52" title="Nx" alt="Nx" />&nbsp;
+  <img src="assets/icons/webstorm.svg" width="52" title="WebStorm" alt="WebStorm" />&nbsp;
+  <img src="assets/icons/vscode.svg" width="52" title="VS Code" alt="VS Code" />&nbsp;
+  <img src="assets/icons/postman.svg" width="52" title="Postman" alt="Postman" />&nbsp;
+  <img src="assets/icons/figma.svg" width="52" title="Figma" alt="Figma" />&nbsp;
+  <img src="assets/icons/ps.svg" width="52" title="Photoshop" alt="Photoshop" />
+</p>
+
 </div>
-
-### 🎨 UI Libraries & Styling
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" alt="tailwind" width="50" height="50"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="materialui" width="50" height="50"/>&nbsp
-  <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" title="shadcn/ui" alt="shadcn" width="50" height="50"/>&nbsp
-  <img src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" title="Ant Design" alt="antd" width="50" height="50"/>&nbsp
-  <img src="https://avatars.githubusercontent.com/u/75042455?s=200&v=4" title="Radix UI" alt="radix" width="50" height="50"/>&nbsp
-</div>
-
-### 📱 Mobile
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React Native" alt="react-native" width="50" height="50"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/expo/expo-original-wordmark.svg" title="Expo" alt="expo" width="50" height="50"/>&nbsp
-</div>
-
-### ⚙️ Backend
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="nodejs" width="50" height="50"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" title="NestJS" alt="nestjs" width="50" height="50"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="postgresql" width="50" height="50"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="mongodb" width="50" height="50"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original.svg" title="Prisma" alt="prisma" width="50" height="50"/>&nbsp
-</div>
-
-### 🏗️ Architecture & Tooling
-<div>
-  <img src="https://avatars.githubusercontent.com/u/23692104?s=200&v=4" title="Nx Monorepo" alt="nx" width="50" height="50"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" title="Vite" alt="vite" width="50" height="50"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="git" width="50" height="50"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="docker" width="50" height="50"/>&nbsp
-  <img src="https://cdn-icons-png.flaticon.com/512/5969/5969059.png" title="VS Code" alt="vscode" width="50" height="50"/>&nbsp
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" title="Postman" alt="postman" width="50" height="50"/>&nbsp
-</div>
-
-### 🎨 Design
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="figma" width="50" height="50"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Photoshop" alt="photoshop" width="50" height="50"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-plain.svg" title="Adobe XD" alt="xd" width="50" height="50"/>&nbsp
-</div>
-
----
-
-## 🎯 Core Competencies
-
-| Area | Skills |
-|------|--------|
-| ⚛️ **Frontend** | React, Next.js, TypeScript, Redux, Storybook |
-| 📱 **Mobile** | React Native, Expo |
-| 🔧 **Backend** | Node.js, NestJS, REST APIs, WebSockets |
-| 🎨 **UI/Styling** | Tailwind CSS, shadcn/ui, Ant Design, Radix UI, MUI |
-| 🏗️ **Architecture** | Nx Monorepo, Micro-frontends, Clean Architecture |
-| 💾 **Databases** | PostgreSQL, MongoDB, Prisma ORM |
-| 🛠️ **DevOps** | Docker, Git, CI/CD pipelines |
-
----
-
-[//]: # (## 📊 GitHub Stats)
-
-[//]: # ()
-[//]: # (<div align="center">)
-
-[//]: # (  <img src="https://github-readme-stats.vercel.app/api?username=e-nagornyak&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>)
-
-[//]: # (  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=e-nagornyak&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>)
-
-[//]: # (</div>)
-
-[//]: # ()
-[//]: # (<div align="center">)
-
-[//]: # (  <img src="https://github-readme-streak-stats.herokuapp.com/?user=e-nagornyak&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>)
-
-[//]: # (</div>)
-
----
 
 ## 🏆 Competitive Programming
 
-<div align="center">
-
-**Codewars:**
-
-![codewars](https://www.codewars.com/users/e_nagornyak/badges/large)
-
-**LeetCode:**
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/e-nagornyak?theme=nord&font=Bentham)
-
-</div>
-
----
+<a href="https://www.codewars.com/users/e_nagornyak"><img src="https://www.codewars.com/users/e_nagornyak/badges/large" alt="Codewars" /></a>
 
 ## 📈 Always Growing
 
-I'm passionate about clean code, scalable architecture, and great user experiences. Currently deepening my expertise in **Nx monorepo** setups, **headless UI** patterns (Radix + shadcn), and **performance-first** mobile development with Expo.
+I care about clean code, scalable architecture and great user experiences. Right now I'm going deeper into **Nx monorepos**, **headless UI** patterns (Radix + shadcn) and **performance-first** web and mobile apps.
 
----
-
-<div align="center">
-
-**Let's build something amazing together!** 🚀
-
-![Profile Views](https://komarev.com/ghpvc/?username=e-nagornyak&color=6366F1&style=flat-square)
-
-</div>
+<a href="https://t.me/e_nagorniak">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/footer.svg" />
+    <img src="assets/footer-light.svg" alt="Let's build something together — message me on Telegram" width="100%" />
+  </picture>
+</a>
