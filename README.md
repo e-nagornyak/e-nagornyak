@@ -30,67 +30,39 @@ const evhen = {
 
 ## 💻 Tech Stack
 
-<div align="center">
+**⚛️ Frontend**<br />
+<img src="assets/chips/react.svg" height="28" alt="React" title="React" /> <img src="assets/chips/nextjs.svg" height="28" alt="Next.js" title="Next.js" /> <img src="assets/chips/vue.svg" height="28" alt="Vue" title="Vue" /> <img src="assets/chips/nuxt.svg" height="28" alt="Nuxt" title="Nuxt" /> <img src="assets/chips/ts.svg" height="28" alt="TypeScript" title="TypeScript" /> <img src="assets/chips/js.svg" height="28" alt="JavaScript" title="JavaScript" /> <img src="assets/chips/html.svg" height="28" alt="HTML5" title="HTML5" /> <img src="assets/chips/css.svg" height="28" alt="CSS3" title="CSS3" /> <img src="assets/chips/storybook.svg" height="28" alt="Storybook" title="Storybook" />
 
-<p>
-  <img src="assets/icons/ts.svg" width="52" title="TypeScript" alt="TypeScript" />&nbsp;
-  <img src="assets/icons/js.svg" width="52" title="JavaScript" alt="JavaScript" />&nbsp;
-  <img src="assets/icons/html.svg" width="52" title="HTML5" alt="HTML5" />&nbsp;
-  <img src="assets/icons/css.svg" width="52" title="CSS3" alt="CSS3" />&nbsp;
-  <img src="assets/icons/react.svg" width="52" title="React" alt="React" />&nbsp;
-  <img src="assets/icons/nextjs.svg" width="52" title="Next.js" alt="Next.js" />&nbsp;
-  <img src="assets/icons/vue.svg" width="52" title="Vue" alt="Vue" />&nbsp;
-  <img src="assets/icons/nuxt.svg" width="52" title="Nuxt" alt="Nuxt" />&nbsp;
-  <img src="assets/icons/vite.svg" width="52" title="Vite" alt="Vite" />
-</p>
+**🗂️ State & Data**<br />
+<img src="assets/chips/rtk.svg" height="28" alt="Redux Toolkit" title="Redux Toolkit" /> <img src="assets/chips/zustand.svg" height="28" alt="Zustand" title="Zustand" /> <img src="assets/chips/pinia.svg" height="28" alt="Pinia" title="Pinia" /> <img src="assets/chips/tanstack-query.svg" height="28" alt="TanStack Query" title="TanStack Query" /> <img src="assets/chips/tanstack-router.svg" height="28" alt="TanStack Router" title="TanStack Router" /> <img src="assets/chips/tanstack-table.svg" height="28" alt="TanStack Table" title="TanStack Table" />
 
-<p>
-  <img src="assets/icons/rtk.svg" width="52" title="Redux Toolkit" alt="Redux Toolkit" />&nbsp;
-  <img src="assets/icons/zustand.svg" width="52" title="Zustand" alt="Zustand" />&nbsp;
-  <img src="assets/icons/pinia.svg" width="52" title="Pinia" alt="Pinia" />&nbsp;
-  <img src="assets/icons/tanstack-query.svg" width="52" title="TanStack Query" alt="TanStack Query" />&nbsp;
-  <img src="assets/icons/tanstack-router.svg" width="52" title="TanStack Router" alt="TanStack Router" />&nbsp;
-  <img src="assets/icons/tanstack-table.svg" width="52" title="TanStack Table" alt="TanStack Table" />&nbsp;
-  <img src="assets/icons/react-hook-form.svg" width="52" title="React Hook Form" alt="React Hook Form" />&nbsp;
-  <img src="assets/icons/zod.svg" width="52" title="Zod" alt="Zod" />
-</p>
+**📝 Forms & Validation**<br />
+<img src="assets/chips/react-hook-form.svg" height="28" alt="React Hook Form" title="React Hook Form" /> <img src="assets/chips/zod.svg" height="28" alt="Zod" title="Zod" />
 
-<p>
-  <img src="assets/icons/tailwind.svg" width="52" title="Tailwind CSS" alt="Tailwind CSS" />&nbsp;
-  <img src="assets/icons/shadcn.svg" width="52" title="shadcn/ui" alt="shadcn/ui" />&nbsp;
-  <img src="assets/icons/radix.svg" width="52" title="Radix UI" alt="Radix UI" />&nbsp;
-  <img src="assets/icons/antd.svg" width="52" title="Ant Design" alt="Ant Design" />&nbsp;
-  <img src="assets/icons/materialui.svg" width="52" title="Material UI" alt="Material UI" />&nbsp;
-  <img src="assets/icons/storybook.svg" width="52" title="Storybook" alt="Storybook" />&nbsp;
-  <img src="assets/icons/react-native.svg" width="52" title="React Native" alt="React Native" />&nbsp;
-  <img src="assets/icons/expo.svg" width="52" title="Expo" alt="Expo" />&nbsp;
-  <img src="assets/icons/electron.svg" width="52" title="Electron" alt="Electron" />
-</p>
+**🎨 UI & Styling**<br />
+<img src="assets/chips/tailwind.svg" height="28" alt="Tailwind CSS" title="Tailwind CSS" /> <img src="assets/chips/shadcn.svg" height="28" alt="shadcn/ui" title="shadcn/ui" /> <img src="assets/chips/radix.svg" height="28" alt="Radix UI" title="Radix UI" /> <img src="assets/chips/antd.svg" height="28" alt="Ant Design" title="Ant Design" /> <img src="assets/chips/materialui.svg" height="28" alt="Material UI" title="Material UI" />
 
-<p>
-  <img src="assets/icons/nodejs.svg" width="52" title="Node.js" alt="Node.js" />&nbsp;
-  <img src="assets/icons/nestjs.svg" width="52" title="NestJS" alt="NestJS" />&nbsp;
-  <img src="assets/icons/postgres.svg" width="52" title="PostgreSQL" alt="PostgreSQL" />&nbsp;
-  <img src="assets/icons/mongodb.svg" width="52" title="MongoDB" alt="MongoDB" />&nbsp;
-  <img src="assets/icons/prisma.svg" width="52" title="Prisma" alt="Prisma" />&nbsp;
-  <img src="assets/icons/vitest.svg" width="52" title="Vitest" alt="Vitest" />&nbsp;
-  <img src="assets/icons/playwright.svg" width="52" title="Playwright" alt="Playwright" />
-</p>
+**📱 Mobile & Desktop**<br />
+<img src="assets/chips/react-native.svg" height="28" alt="React Native" title="React Native" /> <img src="assets/chips/expo.svg" height="28" alt="Expo" title="Expo" /> <img src="assets/chips/electron.svg" height="28" alt="Electron" title="Electron" />
 
-<p>
-  <img src="assets/icons/git.svg" width="52" title="Git" alt="Git" />&nbsp;
-  <img src="assets/icons/githubactions.svg" width="52" title="GitHub Actions" alt="GitHub Actions" />&nbsp;
-  <img src="assets/icons/docker.svg" width="52" title="Docker" alt="Docker" />&nbsp;
-  <img src="assets/icons/nginx.svg" width="52" title="Nginx" alt="Nginx" />&nbsp;
-  <img src="assets/icons/nx.svg" width="52" title="Nx" alt="Nx" />&nbsp;
-  <img src="assets/icons/webstorm.svg" width="52" title="WebStorm" alt="WebStorm" />&nbsp;
-  <img src="assets/icons/vscode.svg" width="52" title="VS Code" alt="VS Code" />&nbsp;
-  <img src="assets/icons/postman.svg" width="52" title="Postman" alt="Postman" />&nbsp;
-  <img src="assets/icons/figma.svg" width="52" title="Figma" alt="Figma" />&nbsp;
-  <img src="assets/icons/ps.svg" width="52" title="Photoshop" alt="Photoshop" />
-</p>
+**🔧 Backend**<br />
+<img src="assets/chips/nodejs.svg" height="28" alt="Node.js" title="Node.js" /> <img src="assets/chips/nestjs.svg" height="28" alt="NestJS" title="NestJS" /> <img src="assets/chips/rest.svg" height="28" alt="REST APIs" title="REST APIs" /> <img src="assets/chips/websockets.svg" height="28" alt="WebSockets" title="WebSockets" />
 
-</div>
+**💾 Databases**<br />
+<img src="assets/chips/postgres.svg" height="28" alt="PostgreSQL" title="PostgreSQL" /> <img src="assets/chips/mongodb.svg" height="28" alt="MongoDB" title="MongoDB" /> <img src="assets/chips/prisma.svg" height="28" alt="Prisma ORM" title="Prisma ORM" />
+
+**🏗️ Architecture**<br />
+<img src="assets/chips/nx.svg" height="28" alt="Nx Monorepo" title="Nx Monorepo" /> <img src="assets/chips/microfrontends.svg" height="28" alt="Micro-frontends" title="Micro-frontends" /> <img src="assets/chips/clean-architecture.svg" height="28" alt="Clean Architecture" title="Clean Architecture" />
+
+**🧪 Testing**<br />
+<img src="assets/chips/vitest.svg" height="28" alt="Vitest" title="Vitest" /> <img src="assets/chips/playwright.svg" height="28" alt="Playwright" title="Playwright" />
+
+**🛠️ DevOps & Tools**<br />
+<img src="assets/chips/git.svg" height="28" alt="Git" title="Git" /> <img src="assets/chips/githubactions.svg" height="28" alt="GitHub Actions" title="GitHub Actions" /> <img src="assets/chips/docker.svg" height="28" alt="Docker" title="Docker" /> <img src="assets/chips/nginx.svg" height="28" alt="Nginx" title="Nginx" /> <img src="assets/chips/vite.svg" height="28" alt="Vite" title="Vite" /> <img src="assets/chips/webstorm.svg" height="28" alt="WebStorm" title="WebStorm" /> <img src="assets/chips/vscode.svg" height="28" alt="VS Code" title="VS Code" /> <img src="assets/chips/postman.svg" height="28" alt="Postman" title="Postman" />
+
+**🖌️ Design**<br />
+<img src="assets/chips/figma.svg" height="28" alt="Figma" title="Figma" /> <img src="assets/chips/ps.svg" height="28" alt="Photoshop" title="Photoshop" />
+
 
 ## 🏆 Competitive Programming
 
